@@ -1,7 +1,9 @@
 ## Abundance calcs
 ## Kimberly Fitzpatrick
-## 9/2/2016
+## 9/6/2016
 ## Modified for Data Analytics Fall 2016
+
+## Hi Kimberly! Keep up the fantastic programming ! ##
 
 #Count the numbers of occruences
 Commonness <- function(Lake_SPP){
