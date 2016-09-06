@@ -5,6 +5,9 @@ Kimberly Fitzpatrick, Daniela Spade, William Oakley
 
 Code is modified from the work that Kimberly Fitzpatrick is doing for her thesis.
 
+Assignment: Edit Kimberly's files and push them back onto her github account.
+
+
 Datasets 
 
 SPPxTID.csv: Data compiled by The Nature Conservancy on fish species presence/absence in North American Great Lake tributaries. 
